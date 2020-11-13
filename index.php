@@ -7,6 +7,6 @@
     <h3>Work2 / Work3 06/11/2020</h3>
     <a href="work2,3/Lab5.11.html">work2</a><br>
     <a href="work2,3/lab.card1.html">work3</a>
-    <a hert="show.php">test</a>
+    <a herf="show.php">test</a>
 </body>
 </html>
